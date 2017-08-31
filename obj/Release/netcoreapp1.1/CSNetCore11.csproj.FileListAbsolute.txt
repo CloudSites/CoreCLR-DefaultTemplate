@@ -1,8 +1,0 @@
-c:\users\work\onedrive\macbook\visual studio 2017\Projects\CloudSitesDefaultTemplates\CSNetCore11\obj\Release\netcoreapp1.1\CSNetCore11.AssemblyInfo.cs
-c:\users\work\onedrive\macbook\visual studio 2017\Projects\CloudSitesDefaultTemplates\CSNetCore11\bin\Release\netcoreapp1.1\CSNetCore11Template.deps.json
-c:\users\work\onedrive\macbook\visual studio 2017\Projects\CloudSitesDefaultTemplates\CSNetCore11\bin\Release\netcoreapp1.1\CSNetCore11Template.runtimeconfig.json
-c:\users\work\onedrive\macbook\visual studio 2017\Projects\CloudSitesDefaultTemplates\CSNetCore11\bin\Release\netcoreapp1.1\CSNetCore11Template.runtimeconfig.dev.json
-c:\users\work\onedrive\macbook\visual studio 2017\Projects\CloudSitesDefaultTemplates\CSNetCore11\bin\Release\netcoreapp1.1\CSNetCore11Template.dll
-c:\users\work\onedrive\macbook\visual studio 2017\Projects\CloudSitesDefaultTemplates\CSNetCore11\bin\Release\netcoreapp1.1\CSNetCore11Template.pdb
-c:\users\work\onedrive\macbook\visual studio 2017\Projects\CloudSitesDefaultTemplates\CSNetCore11\obj\Release\netcoreapp1.1\CSNetCore11Template.dll
-c:\users\work\onedrive\macbook\visual studio 2017\Projects\CloudSitesDefaultTemplates\CSNetCore11\obj\Release\netcoreapp1.1\CSNetCore11Template.pdb
